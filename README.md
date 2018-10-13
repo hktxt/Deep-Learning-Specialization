@@ -33,7 +33,7 @@ Handout                | Description
 
 <table>
    <tr>
-      <td>s</td>
+      <td><a href="http://www.w3school.com.cn/">Visit W3School</a></td>
       <td></td>
       <td></td>
       <td></td>
