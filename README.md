@@ -1,5 +1,5 @@
 # Deep-Learning-Specialization
-Assignments of Deep Learning Specialization(5 courses on Coursera)-Andrew Ng
+Assignments and lectures of Deep Learning Specialization(5 courses on Coursera)-Andrew Ng
 
 https://www.deeplearning.ai/
 
