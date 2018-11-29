@@ -12,4 +12,4 @@ Deep Learning
 * [Course 4 Convolutional Neural Networks](/Course%204%20Convolutional%20Neural%20Networks)
 * [Course 5 Sequence Models](/Course%205%20Sequence%20Models)
 
-![superDL](https://www.shutterstock.com/zh/image-vector/superhero-couple-male-female-superheroes-cloudy-331201091)
+![superDL](superheroes.jpg)
